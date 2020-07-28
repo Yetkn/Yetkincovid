@@ -1,0 +1,2 @@
+# Yetkincovid
+COVID data study
